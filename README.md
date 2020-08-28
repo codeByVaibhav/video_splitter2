@@ -1,4 +1,4 @@
-# video_splitter app
+# Video Splitter 2
 
 An video splitting app for android 💯.
 
